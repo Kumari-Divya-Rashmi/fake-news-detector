@@ -15,7 +15,7 @@ A Flask-based backend API that predicts whether a given news headline is **real*
 - Deployed on **Render** with `gunicorn`
 
 ## 📦 Installation (Local Setup)
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/Kumari-Divya-Rashmi/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 python app.py
@@ -45,7 +45,7 @@ Start Command: gunicorn app:app
 
 👤 Author
 Your Name
-📧 your.email@example.com
-🔗 LinkedIn
-🔗 GitHub
+📧 kumaridivyarashmi306@gmail.com.com
+🔗 https://www.linkedin.com/in/kumari-divya-rashmi-673b24291/
+🔗 https://github.com/Kumari-Divya-Rashmi
 
