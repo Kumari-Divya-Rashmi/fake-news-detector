@@ -4,7 +4,7 @@ A Flask-based backend API that predicts whether a given news headline is **real*
 
 ## 🔗 Live Demo
 
-👉 ** Visit API **: [https://fake-news-detector-3nx7.onrender.com]
+👉 ** Visit API **: [https://fake-news-detector-carpryfzj6rahrjdyxvtxh.streamlit.app/]
 
 ## 🚀 Features
 
